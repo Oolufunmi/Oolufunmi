@@ -19,19 +19,13 @@ Numbers have always come naturally to me—maybe it runs in the family, as my da
 I’m open to opportunities, collaborations, and meaningful conversations in data analysis, data science, and machine learning. 🚀
 
 Let’s connect!✨
+Things to know about me:
 
-
-<!--
-**Oolufunmi/Oolufunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my first Predictive Model
+- 🌱 I’m currently learning Python for Data Analysis and Application Development
+- 👯 I’m looking to collaborate on Data ANalytics Projects
+- 🤔 I’m looking for help with Research work, tutoring  and  Data Ananlytics
+- 💬 Ask me about Research, Data Science, Training and Teaching
+- 📫 How to reach me: +2348132359210
+- My Email address is Olufunmilolaolapejuolaewe@gmail.com
+- ⚡ Fun fact: I have a Man-U fan just  because my Husband is one 😄, He taught me all i know about football, I love fried meat 😆
