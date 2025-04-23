@@ -5,7 +5,7 @@
 
 
 
-I am data analyst with a strong foundation in statistics (BSc – 2nd class upper, MSc – PhD grade) and a passion about transforming data into actionable insights. 
+I am data analyst with a strong foundation in statistics (BSc – 2nd class upper, MSc) and a passion about transforming data into actionable insights. 
 My journey began with theoretical applications, but now I’m focused on solving real-world problems through data analysis and data science.💡
 
 Currently, I work as a data analyst at Curacel, where I apply statistical methods and analytics tools to drive insights and support decision-making. My experience includes working with SQL, Tableau and Excel, alongside ongoing efforts to strengthen my Python skills for advanced analytics and automation.✨
