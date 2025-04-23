@@ -1,4 +1,3 @@
-### About Me
 
 # Hi👋  My Name is Olufunmilola.![image](https://github.com/user-attachments/assets/30fd1884-6418-4507-a387-6fd3bdff7fd7)
 
