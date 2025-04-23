@@ -2,7 +2,8 @@
 # Hi👋  My Name is Olufunmilola.
 
 
-![image](https://github.com/user-attachments/assets/30fd1884-6418-4507-a387-6fd3bdff7fd7)
+![Uploading image.png…]()
+
 
 
 I am data analyst with a strong foundation in statistics (BSc – 2nd class upper, MSc – PhD grade) and a passion about transforming data into actionable insights. 
